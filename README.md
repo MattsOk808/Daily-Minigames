@@ -1,4 +1,4 @@
-# Group10 Minigames Project
+# Daily Minigames
 
 ## Running the Web Interface
 
