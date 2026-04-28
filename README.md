@@ -1,5 +1,7 @@
 # Daily Minigames
 
+Note: cloned from the original repository which is private hence why everything was uploaded at once
+
 ## Running the Web Interface
 
 The web frontend is served through the Node.js backend.
